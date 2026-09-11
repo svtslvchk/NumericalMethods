@@ -43,3 +43,4 @@ if __name__ == "__main__":
     print(f"det(A) (NumPy): {det_np:.4f}")
     print("A^-1 (NumPy):")
     print(inv_np)
+    print_matrix(p)
